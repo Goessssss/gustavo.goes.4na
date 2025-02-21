@@ -1,0 +1,1 @@
+print("olá, eu sou o dedinho! adoro mulheres e marola hahaha")
